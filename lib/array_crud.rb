@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array(array, element)
-  array << element
+def create_an_array
+  ["twinkle", "twinkle", "little", "star"]
 end
 
 def add_element_to_end_of_array(array, element)
